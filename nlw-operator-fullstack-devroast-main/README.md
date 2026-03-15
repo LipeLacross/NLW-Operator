@@ -16,9 +16,9 @@ Construído durante o evento **NLW** da [Rocketseat](https://rocketseat.com.br),
 ## 📸 Visual do Projeto
 
 <div align="center">
-  <img src="/Screenshot 2026-03-14 222148.png" alt="DevRoast Home" width="80%" style="margin: 16px 0; border-radius: 10px;">
-  <img src="/Screenshot 2026-03-14 222122.png" alt="DevRoast Analysis" width="80%" style="margin: 16px 0; border-radius: 10px;">
-  <img src="/Screenshot 2026-03-14 222103.png" alt="DevRoast Leaderboard" width="80%" style="margin: 16px 0; border-radius: 10px;">
+  <img src="public/Screenshot 2026-03-14 222148.png" alt="DevRoast Home" width="80%" style="margin: 16px 0; border-radius: 10px;">
+  <img src="public/Screenshot 2026-03-14 222122.png" alt="DevRoast Analysis" width="80%" style="margin: 16px 0; border-radius: 10px;">
+  <img src="public/Screenshot 2026-03-14 222103.png" alt="DevRoast Leaderboard" width="80%" style="margin: 16px 0; border-radius: 10px;">
 </div>
 
 ---
